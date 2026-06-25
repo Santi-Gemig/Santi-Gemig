@@ -4,7 +4,7 @@
 
 Soy estudiante de programación apasionado por el desarrollo de software, las bases de datos y la resolución de problemas mediante código.
 
-Actualmente continúo ampliando mis conocimientos en desarrollo backend, bases de datos relacionales y NoSQL, y buenas prácticas de programación.
+Actualmente continúo ampliando mis conocimientos en desarrollo backend, bases de datos relacionales y NoSQL.
 
 ---
 
