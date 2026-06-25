@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hola, soy Santiago Gemignani
 
-<!--
-**Santi-Gemig/Santi-Gemig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante de programación apasionado por el desarrollo de software, las bases de datos y la resolución de problemas mediante código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente continúo ampliando mis conocimientos en desarrollo backend, bases de datos relacionales y NoSQL, y buenas prácticas de programación.
+
+---
+
+## 💻 Tecnologías y Herramientas
+
+### Lenguajes
+- Python
+- JavaScript
+- SQL
+
+### Bases de Datos
+- MongoDB
+- MySQL
+
+### Herramientas
+- Git
+- GitHub
+- Visual Studio Code
+
+### Conceptos
+- Programación Orientada a Objetos
+- Estructuras de Datos
+- Modelado de Bases de Datos
+- Consultas y Agregaciones en MongoDB
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Desarrollo Backend
+- Optimización de Bases de Datos
+- Arquitectura de Software
+- APIs REST
+
+---
+
+## 🎯 Objetivos
+
+- Seguir mejorando mis habilidades como desarrollador.
+- Participar en proyectos reales.
+- Construir un portfolio sólido.
+- Aprender nuevas tecnologías y frameworks.
+
+---
+
+## 📈 Estadísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TU_USUARIO
+- LinkedIn: TU_LINKEDIN
+
+---
+
+⭐ Siempre abierto a aprender, colaborar y crear nuevos proyectos.
