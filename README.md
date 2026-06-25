@@ -50,18 +50,11 @@ Actualmente continúo ampliando mis conocimientos en desarrollo backend, bases d
 
 ---
 
-## 📈 Estadísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
-
----
-
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: TU_LINKEDIN
+- GitHub: https://github.com/Santi-Gemig)
+- LinkedIn: www.linkedin.com/in/santiago-gemignani-4a374b373
+
 
 ---
 
