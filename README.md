@@ -14,6 +14,8 @@ Actualmente continúo ampliando mis conocimientos en desarrollo backend, bases d
 - Python
 - JavaScript
 - SQL
+- Java
+- CSS
 
 ### Bases de Datos
 - MongoDB
